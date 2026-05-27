@@ -1,0 +1,2992 @@
+{
+  "metadata": {
+    "description": "Kyrgyz language dataset: antonyms (KY-RU) and dialogues (KY-EN-RU)",
+    "antonyms_count": 16,
+    "dialogues_count": 36,
+    "languages": [
+      "kyrgyz",
+      "english",
+      "russian"
+    ]
+  },
+  "antonyms": [
+    {
+      "id": 1,
+      "kyrgyz": {
+        "word1": "Бийик",
+        "word2": "жапыз",
+        "pair": "Бийик – жапыз",
+        "example": "1. Бул тоо бийик, а тигил тоо жапыз."
+      },
+      "russian": {
+        "word1": "Высокий",
+        "word2": "низкий",
+        "pair": "Высокий - низкий",
+        "example": "1. Эта гора высокая, а та гора низкая."
+      }
+    },
+    {
+      "id": 2,
+      "kyrgyz": {
+        "word1": "Узун",
+        "word2": "кыска",
+        "pair": "Узун – кыска",
+        "example": "2. Бул жол узун, ал эми бул жол кыска."
+      },
+      "russian": {
+        "word1": "Длинный",
+        "word2": "короткий",
+        "pair": "Длинный - короткий",
+        "example": "2. Этот путь длинный, а этот путь короткий."
+      }
+    },
+    {
+      "id": 3,
+      "kyrgyz": {
+        "word1": "Жоон",
+        "word2": "ичке",
+        "pair": "Жоон - ичке",
+        "example": "3. Бул калем ичке, ал эми тигиси жоон."
+      },
+      "russian": {
+        "word1": "Толстый",
+        "word2": "тонкий",
+        "pair": "Толстый - тонкий",
+        "example": "3. Эта ручка тонкая, а та толстая."
+      }
+    },
+    {
+      "id": 4,
+      "kyrgyz": {
+        "word1": "Ачуу",
+        "word2": "туттуу",
+        "pair": "Ачуу – туттуу",
+        "example": "4. Бул шире ачуу, а бул таттуу."
+      },
+      "russian": {
+        "word1": "Горький",
+        "word2": "сладкий",
+        "pair": "Горький - сладкий",
+        "example": "4. Этот сок горький, а этот сладкий."
+      }
+    },
+    {
+      "id": 5,
+      "kyrgyz": {
+        "word1": "Ысык",
+        "word2": "муздак",
+        "pair": "Ысык – муздак",
+        "example": "5. Суу муздак, ал эми чай ысык."
+      },
+      "russian": {
+        "word1": "Горячий",
+        "word2": "холодный",
+        "pair": "Горячий - холодный",
+        "example": "5. Вода холодная, а чай горячий."
+      }
+    },
+    {
+      "id": 6,
+      "kyrgyz": {
+        "word1": "Сулуу",
+        "word2": "сулуу эмес",
+        "pair": "Сулуу– сулуу эмес",
+        "example": "6. Ал кыз сулуу, ал эми тигил кыз сулуу эмес."
+      },
+      "russian": {
+        "word1": "Красивый",
+        "word2": "уродливый",
+        "pair": "Красивый – уродливый",
+        "example": "6. Эта девушка красивая, но та девушка не красивая."
+      }
+    },
+    {
+      "id": 7,
+      "kyrgyz": {
+        "word1": "Таза",
+        "word2": "кир",
+        "pair": "Таза – кир",
+        "example": "7. Бул идиш таза, а тигил идиш кир."
+      },
+      "russian": {
+        "word1": "Чистый",
+        "word2": "грязный",
+        "pair": "Чистый - грязный",
+        "example": "7. Эта тарелка чистая, а та тарелка грязная."
+      }
+    },
+    {
+      "id": 8,
+      "kyrgyz": {
+        "word1": "Катуу",
+        "word2": "жумшак",
+        "pair": "Катуу – жумшак",
+        "example": "8. Бул таш катуу, ал эми бул кум жумшак."
+      },
+      "russian": {
+        "word1": "Твердый",
+        "word2": "мягкий",
+        "pair": "Твердый - мягкий",
+        "example": "8. Этот камень твёрдый, а этот песок мягкий."
+      }
+    },
+    {
+      "id": 9,
+      "kyrgyz": {
+        "word1": "Жаңы",
+        "word2": "эски",
+        "pair": "Жаңы - эски",
+        "example": "9. Бул үй жаңы, ал эми тигил үй эски."
+      },
+      "russian": {
+        "word1": "Новый",
+        "word2": "старый",
+        "pair": "Новый - старый",
+        "example": "9. Этот дом новый, а тот дом старый."
+      }
+    },
+    {
+      "id": 10,
+      "kyrgyz": {
+        "word1": "Кымбат",
+        "word2": "арзан",
+        "pair": "Кымбат – арзан",
+        "example": "10. Бул телефон кымбат, ал эми бул арзан."
+      },
+      "russian": {
+        "word1": "Дорогой",
+        "word2": "дешевый",
+        "pair": "Дорогой - дешевый",
+        "example": "10. Этот телефон дорогой, а тот дешевый."
+      }
+    },
+    {
+      "id": 11,
+      "kyrgyz": {
+        "word1": "Күчтүү",
+        "word2": "алсыз",
+        "pair": "Күчтүү – алсыз",
+        "example": "11. Ат күчтүү, ал эми эшек алсыз."
+      },
+      "russian": {
+        "word1": "Сильный",
+        "word2": "слабый",
+        "pair": "Сильный - слабый",
+        "example": "11. Конь силён, а осел слаб."
+      }
+    },
+    {
+      "id": 12,
+      "kyrgyz": {
+        "word1": "Улуу",
+        "word2": "кичүү",
+        "pair": "Улуу - кичүү",
+        "example": "12. Байкем улуу, мен кичүүмүн."
+      },
+      "russian": {
+        "word1": "Старший",
+        "word2": "младший",
+        "pair": "Старший - младший",
+        "example": "12. Мой брат старший, а я младший."
+      }
+    },
+    {
+      "id": 13,
+      "kyrgyz": {
+        "word1": "Чоң",
+        "word2": "жаш",
+        "pair": "Чоң - жаш",
+        "example": "13. Бул чоң апа кары, ал эми небереси жаш."
+      },
+      "russian": {
+        "word1": "Старый",
+        "word2": "молодой",
+        "pair": "Старый - молодой",
+        "example": "13. Эта бабушка старая, а ее внук молодой."
+      }
+    },
+    {
+      "id": 14,
+      "kyrgyz": {
+        "word1": "Ак",
+        "word2": "кара",
+        "pair": "Ак – кара",
+        "example": "14. Кагаз ак, ал эми калем кара."
+      },
+      "russian": {
+        "word1": "Белый",
+        "word2": "черный",
+        "pair": "Белый - черный",
+        "example": "14. Бумага белая, а ручка черная."
+      }
+    },
+    {
+      "id": 15,
+      "kyrgyz": {
+        "word1": "Өйдө",
+        "word2": "төмөн",
+        "pair": "Өйдө - төмөн",
+        "example": "15. Балдар өйдө чыгып кетти, ал эми мен төмөн түшүп келдим."
+      },
+      "russian": {
+        "word1": "Вверх",
+        "word2": "вниз",
+        "pair": "Вверх - вниз",
+        "example": "15. Дети поднялись вверх, а я спустился вниз."
+      }
+    },
+    {
+      "id": 16,
+      "kyrgyz": {
+        "word1": "Чоң",
+        "word2": "кичине",
+        "pair": "Чоң – кичине",
+        "example": "16. Бул алма чоң, ал эми тигиси кичине."
+      },
+      "russian": {
+        "word1": "Большой",
+        "word2": "маленький",
+        "pair": "Большой - маленький",
+        "example": "16. Это яблоко большое, а то маленькое."
+      }
+    }
+  ],
+  "dialogues": [
+    {
+      "id": 1,
+      "title": {
+        "kyrgyz": "Таанышуу",
+        "english": "",
+        "russian": ""
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Алексей",
+            "text": "Саламатсызбы! Сиздин атыныз ким?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Менин атым Иван. А сенин атын ким ?"
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Менин атым Алексей. Сиз кайдан келдиңиз?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Мен Москвадан келдим."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Alexey",
+            "text": "Hello! What is your name?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Hello! My name is Ivan. What is your name?"
+          },
+          {
+            "speaker": "Alexey",
+            "text": "My name is Alexey. Where are you from?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "I am from Moscow."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Алексей",
+            "text": "Здравствуйте! Как вас зовут?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Привет! Меня зовут Иван. А вас как зовут?"
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Меня зовут Алексей. Откуда вы?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Я из Москвы."
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": {
+        "kyrgyz": "Коштошуу",
+        "english": "",
+        "russian": ""
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Алексей",
+            "text": "Кош, ийгилик сага!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Рахмат! Көрүшкөнчө!"
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Ооба, жакында жолугабыз."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Буйруса, жакында көрүшөбүз!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Alexey",
+            "text": "Goodbye, good luck to you!"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Thank you! See you soon!"
+          },
+          {
+            "speaker": "Alexey",
+            "text": "Yes, we will meet soon."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Yes, see you soon!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Алексей",
+            "text": "До свидания, удачи вам!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Спасибо! Скоро увидимся!"
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Да, скоро увидимся."
+          },
+          {
+            "speaker": "Иван",
+            "text": "До скорого!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": {
+        "kyrgyz": "Үй-бүлө жөнүндө маалымат",
+        "english": "Family Information",
+        "russian": "Информация о семье"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Айбек",
+            "text": "Саламатсыңбы, досум! Үй-бүлөң жөнүндө айтып берчи."
+          },
+          {
+            "speaker": "Эржан",
+            "text": "Саламатчылык! Менин үй-бүлөм анча  чоң эмес. Ата-энем жана бир карындашым бар."
+          },
+          {
+            "speaker": "Айбек",
+            "text": "Ата-энең эмне иш кылат?"
+          },
+          {
+            "speaker": "Эржан",
+            "text": "Атам мугалим, апам дарыгер. Экөө тең иштешет."
+          },
+          {
+            "speaker": "Айбек",
+            "text": "Карындашың канча жашта?"
+          },
+          {
+            "speaker": "Эржан",
+            "text": "Он эки жашта, мектепте окуйт."
+          },
+          {
+            "speaker": "Айбек",
+            "text": "Жакшы экен"
+          },
+          {
+            "speaker": "Эржан",
+            "text": "Рахмат!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Aibek",
+            "text": "Hello, my friend! Tell me about your family."
+          },
+          {
+            "speaker": "Erzhan",
+            "text": "Hello! My family is not big. I have my parents and a sister."
+          },
+          {
+            "speaker": "Aibek",
+            "text": "What do your parents do?"
+          },
+          {
+            "speaker": "Erzhan",
+            "text": "My father is a teacher, my mother is a doctor. They both work."
+          },
+          {
+            "speaker": "Aibek",
+            "text": "How old is your sister?"
+          },
+          {
+            "speaker": "Erzhan",
+            "text": "She is twelve years old, she studies at school."
+          },
+          {
+            "speaker": "Aibek",
+            "text": "That's great! May your family be happy!"
+          },
+          {
+            "speaker": "Erzhan",
+            "text": "Thank you! May your family be safe too!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Айбек",
+            "text": "Привет, мой друг! Расскажи мне о своей семье."
+          },
+          {
+            "speaker": "Ержан",
+            "text": "Привет! У меня небольшая семья. У меня есть родители и сестра."
+          },
+          {
+            "speaker": "Айбек",
+            "text": "Кем работают твои родители?"
+          },
+          {
+            "speaker": "Ержан",
+            "text": "Мой отец учитель, моя мама врач. Они оба работают."
+          },
+          {
+            "speaker": "Айбек",
+            "text": "Сколько лет твоей сестре?"
+          },
+          {
+            "speaker": "Ержан",
+            "text": "Ей двенадцать лет, она учится в школе."
+          },
+          {
+            "speaker": "Айбек",
+            "text": "Это здорово!"
+          },
+          {
+            "speaker": "Ержан",
+            "text": "Спасибо!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": {
+        "kyrgyz": "Ресторанда",
+        "english": "At the restaurant",
+        "russian": "В ресторане"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Дмитрий",
+            "text": "Досум, ачка болдум, жүрү тамактаналы."
+          },
+          {
+            "speaker": "Сергей",
+            "text": "Макул, жүрү ушул ресторанга кирели."
+          },
+          {
+            "speaker": "Официант",
+            "text": "Саламатсыздарбы! Эмне тапшырык кыласыздар?"
+          },
+          {
+            "speaker": "Дмитрий",
+            "text": "Бир лагман жана кара чай."
+          },
+          {
+            "speaker": "Сергей",
+            "text": "Мага болсо бешбармак."
+          },
+          {
+            "speaker": "Официант",
+            "text": "Макул, бир аздан кийин  даяр болот."
+          },
+          {
+            "speaker": "Дмитрий",
+            "text": "Макул, күтөбүз."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Dmitry",
+            "text": "Dude, I'm hungry, let's go eat."
+          },
+          {
+            "speaker": "Sergey",
+            "text": "Okay, let's go to this restaurant."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Hello! What would you like to order?"
+          },
+          {
+            "speaker": "Dmitry",
+            "text": "A lagman and black tea."
+          },
+          {
+            "speaker": "Sergey",
+            "text": "I'll have beshbarmak."
+          },
+          {
+            "speaker": "Waiter",
+            "text": "Okay, it'll be ready in a moment."
+          },
+          {
+            "speaker": "Dmitry",
+            "text": "Okay, we will wait."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Дмитрий",
+            "text": "Я голодный, пойдем поедим."
+          },
+          {
+            "speaker": "Сергей",
+            "text": "Ладно, пойдем в этот ресторан."
+          },
+          {
+            "speaker": "Официант",
+            "text": "Здравствуйте! Что будете заказывать?"
+          },
+          {
+            "speaker": "Дмитрий",
+            "text": "Лагман и черный чай."
+          },
+          {
+            "speaker": "Сергей",
+            "text": "Мне бешбармак."
+          },
+          {
+            "speaker": "Официант",
+            "text": "Хорошо, через некоторое время будет готово."
+          },
+          {
+            "speaker": "Дмитрий",
+            "text": "Ладно, подождем."
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": {
+        "kyrgyz": "Китеп дүкөнүндө",
+        "english": "At the bookstore",
+        "russian": "В книжном магазине"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Артём",
+            "text": "Саламатсызбы! Тарыхый китептер барбы?"
+          },
+          {
+            "speaker": "Сатуучу",
+            "text": "Ооба, мына бул китеп абдан кызыктуу."
+          },
+          {
+            "speaker": "Артём",
+            "text": "Канча турат?"
+          },
+          {
+            "speaker": "Сатуучу",
+            "text": "500 сом."
+          },
+          {
+            "speaker": "Артём",
+            "text": "Эң жакшы, алам."
+          },
+          {
+            "speaker": "Сатуучу",
+            "text": "Рахмат, жакшы окуңуз!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Artyom",
+            "text": "Hello! Do you have any history books?"
+          },
+          {
+            "speaker": "Seller",
+            "text": "Yes, this book is very interesting."
+          },
+          {
+            "speaker": "Artyom",
+            "text": "How much does it cost?"
+          },
+          {
+            "speaker": "Seller",
+            "text": "500 soms."
+          },
+          {
+            "speaker": "Artyom",
+            "text": "Great, I'll take it."
+          },
+          {
+            "speaker": "Seller",
+            "text": "Thank you, have a good read!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Артем",
+            "text": "Здравствуйте! У вас есть исторические книги?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Да, эта книга очень интересная."
+          },
+          {
+            "speaker": "Артем",
+            "text": "Сколько она стоит?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "500 сомов."
+          },
+          {
+            "speaker": "Артем",
+            "text": "Отлично, я возьму."
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Спасибо, приятного чтения!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": {
+        "kyrgyz": "Азык-түлүк дүкөнүндө",
+        "english": "At the grocery store",
+        "russian": "В продуктовом магазине"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Али",
+            "text": "Саламатсызбы! Сүт жана нан барбы?"
+          },
+          {
+            "speaker": "Дүкөнчү",
+            "text": "Саламатсызбы! Ооба, сүт бул жакта, нан сиз жакта турат."
+          },
+          {
+            "speaker": "Али",
+            "text": "Рахмат! Баалары канча?"
+          },
+          {
+            "speaker": "Дүкөнчү",
+            "text": "Сүт 80 сом, нан 30 сом."
+          },
+          {
+            "speaker": "Али",
+            "text": "Макул, эсептеп бересизби."
+          },
+          {
+            "speaker": "Дүкөнчү",
+            "text": "Албетте, 110 сом, ийгиликтүү күн каалайм!"
+          },
+          {
+            "speaker": "Али",
+            "text": "Рахмат, сизге дагы."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ali",
+            "text": "Hello! Do you have milk and bread?"
+          },
+          {
+            "speaker": "Shopkeeper",
+            "text": "Hello! Yes, milk is here, and bread is here."
+          },
+          {
+            "speaker": "Ali",
+            "text": "Thank you! How much do they cost?"
+          },
+          {
+            "speaker": "Shopkeeper",
+            "text": "Milk is 80 soms, bread is 30 soms."
+          },
+          {
+            "speaker": "Ali",
+            "text": "Okay, can you calculate it for me?"
+          },
+          {
+            "speaker": "Shopkeeper",
+            "text": "Sure, 110 soms, have a nice day!"
+          },
+          {
+            "speaker": "Ali",
+            "text": "Thank you, and you too."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Али",
+            "text": "Здравствуйте! У вас есть молоко и хлеб?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Здравствуйте! Да, молоко здесь, а хлеб там."
+          },
+          {
+            "speaker": "Али",
+            "text": "Спасибо! Сколько они стоят?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Молоко стоит 80 сомов, хлеб — 30 сомов."
+          },
+          {
+            "speaker": "Али",
+            "text": "Хорошо, можете посчитать?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Конечно, 110 сомов, хорошего дня!"
+          },
+          {
+            "speaker": "Али",
+            "text": "Спасибо и вам."
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": {
+        "kyrgyz": "Май куючу жайда",
+        "english": "At the gas station",
+        "russian": "На заправке"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Али",
+            "text": "Саламатсызбы! Май куюп бересизби?"
+          },
+          {
+            "speaker": "Кызматкер",
+            "text": "Саламатсызбы! Канча литр керек?"
+          },
+          {
+            "speaker": "Али",
+            "text": "10 литр."
+          },
+          {
+            "speaker": "Кызматкер",
+            "text": "Жакшы, 10 литр май. Баасы 800 сом болот."
+          },
+          {
+            "speaker": "Али",
+            "text": "Мына, алып коёсузбу."
+          },
+          {
+            "speaker": "Кызматкер",
+            "text": "Рахмат! Жолуңуз шыдыр болсун!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ali",
+            "text": "Hello! Can you fill me up with gas?"
+          },
+          {
+            "speaker": "Employee",
+            "text": "Hello! How many liters do you need?"
+          },
+          {
+            "speaker": "Ali",
+            "text": "10 liters."
+          },
+          {
+            "speaker": "Employee",
+            "text": "Okay, 10 liters of gas. The price will be 800 soms."
+          },
+          {
+            "speaker": "Ali",
+            "text": "Here, take it."
+          },
+          {
+            "speaker": "Employee",
+            "text": "Thank you! Have a safe journey!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Али",
+            "text": "Здравствуйте! Можете заправить меня бензином?"
+          },
+          {
+            "speaker": "Сотрудник",
+            "text": "Здравствуйте! Сколько литров вам нужно?"
+          },
+          {
+            "speaker": "Али",
+            "text": "10 литров."
+          },
+          {
+            "speaker": "Сотрудник",
+            "text": "Хорошо, 10 литров бензина. Цена будет 800 сомов."
+          },
+          {
+            "speaker": "Али",
+            "text": "Вот, возьмите."
+          },
+          {
+            "speaker": "Сотрудник",
+            "text": "Спасибо! Счастливого пути!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "title": {
+        "kyrgyz": "Телефон менен сүйлөшүү",
+        "english": "Telephone conversation",
+        "russian": "Телефонный разговор"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Салам, Айзада! Кандай жүрөсүң?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Салам! Жакшы, рахмат. Иштериң кандай?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Менде да баары жакшы. Бош болсоң эртең жолукпайлыбы?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Макул, саат үч ыңгайлуу болобу?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Албетте, кафеден кезигели."
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Жакшы, эртең 3тө көрүшкөнчө!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Көрүшкөнчө!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello, Aizada! How are you?"
+          },
+          {
+            "speaker": "Aizada",
+            "text": "Hello! Good, thank you. How are you?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "I'm fine too. If you're free, can we meet tomorrow?"
+          },
+          {
+            "speaker": "Aizada",
+            "text": "Yes, would three o'clock be convenient?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Sure, we'll meet at the cafe."
+          },
+          {
+            "speaker": "Aizada",
+            "text": "Good, see you tomorrow at 3!"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "See you!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Привет, Айзада! Как дела?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Привет! Хорошо, спасибо. Как дела?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "У меня тоже все хорошо. Если ты свободна, давай встретимся завтра?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Хорошо, в три часа будет удобно?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Конечно, встретимся в кафе."
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Хорошо, увидимся завтра в три!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Увидимся!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "title": {
+        "kyrgyz": "Ооруканада",
+        "english": "In the hospital",
+        "russian": "В больнице"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы, дарыгер. Башым ооруп жатат."
+          },
+          {
+            "speaker": "Дарыгер",
+            "text": "Саламатсызбы! Баш ооруңуз качан башталды?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Бир нече күндөн бери ооруп жатат."
+          },
+          {
+            "speaker": "Дарыгер",
+            "text": "Анда, анализ тапшырыңыз , дары жазып берем."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Рахмат, бул дарыларды кайсы убакта ичем?"
+          },
+          {
+            "speaker": "Дарыгер",
+            "text": "Сизге антибиотик жана башкаларды жазып берем, эртең менен жана кечинде ичесиз. Бир айдан кийин кайра келесиз."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello, doctor. I have a headache."
+          },
+          {
+            "speaker": "Doctor",
+            "text": "Hello! When did your headache start?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "It has been a few days."
+          },
+          {
+            "speaker": "Doctor",
+            "text": "Well, let me do some tests and I will prescribe some medicine."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Thank you, how do I take the medicine?"
+          },
+          {
+            "speaker": "Doctor",
+            "text": "I will prescribe you antibiotics and other medications, which you should take in the morning and evening. You will come back in a month."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте, доктор. У меня болит голова."
+          },
+          {
+            "speaker": "Врач",
+            "text": "Здравствуйте! Когда у вас началась головная боль?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Прошло несколько дней."
+          },
+          {
+            "speaker": "Доктор",
+            "text": "Хорошо, сдайте тогда анализы и я выпишу вам лекарство."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Спасибо, как мне принимать лекарство?"
+          },
+          {
+            "speaker": "Врач",
+            "text": "Я выпишу вам антибиотики и другие лекарства, вы будете принимать их утром и вечером. И через месяц придете на осмотр."
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "title": {
+        "kyrgyz": "Дарыканада",
+        "english": "At the pharmacy",
+        "russian": "В аптеке"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Дарыгер антибиотик жазып берди, бул дарылар сизде барбы?"
+          },
+          {
+            "speaker": "Дарыканачы",
+            "text": "Саламатсызбы!  Канча кутуча керек?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Бир кутуча. Баасы канча?"
+          },
+          {
+            "speaker": "Дарыканачы",
+            "text": "250 сом."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Мына, алып койсоңуз."
+          },
+          {
+            "speaker": "Дарыканачы",
+            "text": "Рахмат, тез сакайып кетиңиз!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! The doctor prescribed antibiotics, do you have these medications?"
+          },
+          {
+            "speaker": "Pharmacist",
+            "text": "Hello!  How many boxes do you need?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "One box. How much does it cost?"
+          },
+          {
+            "speaker": "Pharmacist",
+            "text": "250 soms."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Here you are."
+          },
+          {
+            "speaker": "Pharmacist",
+            "text": "Thank you, get well soon!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Врач прописал антибиотики, у вас есть эти лекарства?"
+          },
+          {
+            "speaker": "Фармацевт",
+            "text": "Здравствуйте! Сколько коробок вам нужно?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Одна коробка. Сколько она стоит?"
+          },
+          {
+            "speaker": "Фармацевт",
+            "text": "250 сомов."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Вот, пожалуйста."
+          },
+          {
+            "speaker": "Фармацевт",
+            "text": "Спасибо, выздоравливайте скорее!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "title": {
+        "kyrgyz": "Таксиде",
+        "english": "In a taxi",
+        "russian": "В такси"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы!"
+          },
+          {
+            "speaker": "Таксист",
+            "text": "Саламатчылык! Кайсыл жакка барабыз?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Аламединге."
+          },
+          {
+            "speaker": "Таксист",
+            "text": "Макул, кеттик."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Канча сом чыкты?"
+          },
+          {
+            "speaker": "Таксист",
+            "text": "200 сом."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Макул, менин телефондун зарядды аз калды,  сизде заряддагыч барбы?"
+          },
+          {
+            "speaker": "Таксист",
+            "text": "Ооба, бар."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Рахмат!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello!"
+          },
+          {
+            "speaker": "Taxi driver",
+            "text": "Hello! Where are we going?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "To Alamedin."
+          },
+          {
+            "speaker": "Taxi driver",
+            "text": "Okay, let's go."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "How much does it cost?"
+          },
+          {
+            "speaker": "Taxi driver",
+            "text": "200 soms."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Okay, my phone was running out of power, do you have a charger?"
+          },
+          {
+            "speaker": "Taxi driver",
+            "text": "Yes, I do."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Thank you!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте!"
+          },
+          {
+            "speaker": "Таксист",
+            "text": "Здравствуйте! Куда мы едем?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "В Аламедин."
+          },
+          {
+            "speaker": "Таксист",
+            "text": "Хорошо, поехали."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Сколько вышло?"
+          },
+          {
+            "speaker": "Таксист",
+            "text": "200 сомов."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Ладно, у меня разрядился телефон, у вас есть зарядное устройство?"
+          },
+          {
+            "speaker": "Таксист",
+            "text": "Да, есть."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Спасибо!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "title": {
+        "kyrgyz": "Суроо берүү",
+        "english": "Asking a question",
+        "russian": "Задаем вопрос"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы, базарга кандай барсам болот?"
+          },
+          {
+            "speaker": "Жаран",
+            "text": "Саламатсызбы! Базарга түз барып, оңго буруласыз. Жөө барсаңыз 10 мүнөттө жетесиз."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Рахмат!"
+          },
+          {
+            "speaker": "Жаран",
+            "text": "Жакшы барыңыз."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello, how can I get to the market?"
+          },
+          {
+            "speaker": "Citizen",
+            "text": "Hello! Go straight to the market and turn right. You can walk there in 10 minutes."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Thank you!"
+          },
+          {
+            "speaker": "Citizen",
+            "text": "Have a nice day."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте, как мне пройти на рынок?"
+          },
+          {
+            "speaker": "Гражданин",
+            "text": "Здравствуйте! Чтобы пройти на рынок, идите прямо  и поверните направо. Дойти туда можно за 10 минут."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Спасибо!"
+          },
+          {
+            "speaker": "Гражданин",
+            "text": "До свидания."
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "title": {
+        "kyrgyz": "Базарда",
+        "english": "At the market",
+        "russian": "На рынке"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы, бул алмуруттар канчадан?"
+          },
+          {
+            "speaker": "Сатуучу",
+            "text": "Саламатсызбы! Бул алмурут 100 сом."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Бир килограмм тартып бересизби?"
+          },
+          {
+            "speaker": "Сатуучу",
+            "text": "Албетте , ийгиликтүү күн каалайм!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Сизге да!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello, how much are these pears?"
+          },
+          {
+            "speaker": "Seller",
+            "text": "Hello! These pears cost 100 soms."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Can you give me a kilogram?"
+          },
+          {
+            "speaker": "Seller",
+            "text": "Of course, I wish you a successful day!"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "You too!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте, сколько стоят эти груши?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Здравствуйте! Эти груши стоят 100 сомов."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Можете дать мне килограмм?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Конечно, желаю вам удачного дня!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "И вам тоже!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "title": {
+        "kyrgyz": "Конокко баруу",
+        "english": "Visiting",
+        "russian": "В гостях"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Салам, Айзада! Эртең сеникине конокко барсам болобу?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Ооба, сен каалаган убакта келсең болот."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Саат 6 да болобу?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Албетте, күтөм!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Анда жакшы, көрүшкөнчө!"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Көрүшкөнчө!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello, Aizada! Can I visit you tomorrow?"
+          },
+          {
+            "speaker": "Aizada",
+            "text": "Yes, you can come anytime."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Is it okay at 6 o'clock?"
+          },
+          {
+            "speaker": "Aizada",
+            "text": "Of course, I'll wait!"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Well then, see you later!"
+          },
+          {
+            "speaker": "Aizada",
+            "text": "See you later!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Привет, Айзада! Можно я завтра к тебе приду?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Да, можешь приходить в любое время."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Можно в 6 часов?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Конечно, буду ждать!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Ну тогда увидимся!"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Увидимся!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "title": {
+        "kyrgyz": "Аэропорт",
+        "english": "Airport",
+        "russian": "Аэропорт"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Кайсы жерге кетип жатасыз?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Саламатсызбы! Парижге кетип жатам."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Маанайыңыз жакшыбы, эс алганы бара жатасызбы?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Ооба эс алганы, маанайым абдан жакшы!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "жакшы  эс алып келиңиз!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Where are you going?"
+          },
+          {
+            "speaker": "Aizada",
+            "text": "Hello! I'm going to Paris."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Are you in a good mood, are you going to rest?"
+          },
+          {
+            "speaker": "Aizada",
+            "text": "Yes, I'm going to rest, I'm in a very good mood!"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Have a great rest!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Привет! Куда собираешься полететь?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Привет! Я лечу в Париж."
+          },
+          {
+            "speaker": "Иван",
+            "text": "У тебя хорошее настроение, ты собираешься отдохнуть?"
+          },
+          {
+            "speaker": "Айзада",
+            "text": "Да, я собираюсь отдохнуть, у меня очень хорошее настроение!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Хорошего вам отдыха!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "title": {
+        "kyrgyz": "Мейманканада",
+        "english": "At the hotel",
+        "russian": "В отеле"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Бир түнгө бөлмө барбы?"
+          },
+          {
+            "speaker": "Ресепшн",
+            "text": "Саламатсызбы! Ооба, бар. Баасы 2500 сом."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Жакшы, мен алам."
+          },
+          {
+            "speaker": "Ресепшн",
+            "text": "Макул,  паспортуңузду бересизби?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Албетте"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Do you have a room for one night?"
+          },
+          {
+            "speaker": "Receptionist",
+            "text": "Hello! Yes, there is. The price is 2500 soms."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Okay, I'll take it."
+          },
+          {
+            "speaker": "Receptionist",
+            "text": "Okay, can I have your passport?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Sure"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! У вас есть номер на одну ночь?"
+          },
+          {
+            "speaker": "Ресепшн",
+            "text": "Здравствуйте! Да, есть. Цена 2500 сомов."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Хорошо, я возьму его."
+          },
+          {
+            "speaker": "Ресепшн",
+            "text": "Хорошо, можно ваш паспорт?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Конечно"
+          }
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "title": {
+        "kyrgyz": "Банктын ичинде",
+        "english": "Inside the bank",
+        "russian": "Внутри банка"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Мага эсеп ачуу керек болуп жатат."
+          },
+          {
+            "speaker": "Банк кызматкери",
+            "text": "Саламатсызбы! Паспортуңузду бериңиз?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Мына."
+          },
+          {
+            "speaker": "Банк кызматкери",
+            "text": "Рахмат! Эсебиңиз ачылды."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! I need to open an account."
+          },
+          {
+            "speaker": "Bank employee",
+            "text": "Hello! Can you give me your passport?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Here you go."
+          },
+          {
+            "speaker": "Bank employee",
+            "text": "Thank you! Your account has been opened."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Мне нужно открыть счет."
+          },
+          {
+            "speaker": "Сотрудник банка",
+            "text": "Здравствуйте! Вы можете дать мне свой паспорт?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Вот."
+          },
+          {
+            "speaker": "Сотрудник банка",
+            "text": "Спасибо! Ваш счет открыт."
+          }
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "title": {
+        "kyrgyz": "Жумуш издеп жатканда",
+        "english": "When looking for a job",
+        "russian": "При поиске работы"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Жумуш издеп жаттым эле,бош орун барбы?"
+          },
+          {
+            "speaker": "Кызматкер",
+            "text": "Саламатсызбы! Ооба, биздин мекемеде орун бар."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Кайсы тармакта?"
+          },
+          {
+            "speaker": "Кызматкер",
+            "text": "Сатуу боюнча. Кызыкдар болсоңуз, резюмеңизди жибериңиз."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! I was looking for a job, is there any vacancy?"
+          },
+          {
+            "speaker": "Employee",
+            "text": "Hello! Yes, we have a vacancy in our company."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "In what field?"
+          },
+          {
+            "speaker": "Employee",
+            "text": "In sales. If you are interested, please send your resume."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Я искал работу, есть ли вакансии?"
+          },
+          {
+            "speaker": "Сотрудник",
+            "text": "Здравствуйте! Да, в нашей компании есть вакансия."
+          },
+          {
+            "speaker": "Иван",
+            "text": "В какой сфере?"
+          },
+          {
+            "speaker": "Сотрудник",
+            "text": "В сфере продаж. Если вам это интересно, отправьте свое резюме."
+          }
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "title": {
+        "kyrgyz": "Көчөдө багыт суроо",
+        "english": "Asking for directions on the street",
+        "russian": "Спрашиваем дорогу на улице"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Сейил багы кайсыл жакта?"
+          },
+          {
+            "speaker": "Жаран",
+            "text": "Саламатчылык, түз барып оңго буруласыз."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Чоң рахмат!"
+          },
+          {
+            "speaker": "Жаран",
+            "text": "Ийгилик!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Where is the park?"
+          },
+          {
+            "speaker": "Citizen",
+            "text": "Hello, go straight and turn right."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Thank you very much!"
+          },
+          {
+            "speaker": "Citizen",
+            "text": "Good luck!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Где находится парк?"
+          },
+          {
+            "speaker": "Гражданин",
+            "text": "Здравствуйте, идите прямо и поверните направо."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Большое спасибо!"
+          },
+          {
+            "speaker": "Гражданин",
+            "text": "Удачи!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "title": {
+        "kyrgyz": "Спорт залга жазылуу",
+        "english": "Signing up for a gym",
+        "russian": "Запись в спортзал"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Спортзалга жазылайын дедим эле."
+          },
+          {
+            "speaker": "Машыктыруучу",
+            "text": "Саламатсызбы! Сизге кандай  программа керек?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Силерде арыктоо үчүн программалар барбы?"
+          },
+          {
+            "speaker": "Машыктыруучу",
+            "text": "Ооба, сизге ылайыктуу программа тандап бере алабыз."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! I wanted to sign up for a gym."
+          },
+          {
+            "speaker": "Trainer",
+            "text": "Hello! What program do you need?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Do you have any weight loss programs?"
+          },
+          {
+            "speaker": "Trainer",
+            "text": "Yes, we can choose a program that suits you."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Я хотел записаться в спортзал."
+          },
+          {
+            "speaker": "Тренер",
+            "text": "Здравствуйте! Какая программа вам нужна?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "У вас есть программы по снижению веса?"
+          },
+          {
+            "speaker": "Тренер",
+            "text": "Да, мы можем подобрать программу, которая вам подойдет."
+          }
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "title": {
+        "kyrgyz": "Дарыканада",
+        "english": "Going to the pharmacy",
+        "russian": "В аптеке"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Менин тишим ооруп жатат, кандай дары бар?"
+          },
+          {
+            "speaker": "Фармацевт",
+            "text": "Саламатсызбы! Бул дарыны алыңыз, ооруну басаңдатат. 150 сом."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Макул, бериңиз."
+          },
+          {
+            "speaker": "Фармацевт",
+            "text": "Тез сакайып кетиңиз!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Рахмат!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! I have a toothache, what medicine do you have?"
+          },
+          {
+            "speaker": "Pharmacist",
+            "text": "Hello! Take this medicine, it will relieve the pain. 150 soms."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Okay, can you give it to me."
+          },
+          {
+            "speaker": "Pharmacist",
+            "text": "Get well soon!"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Thank you!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! У меня болит зуб, какие у вас есть лекарства?"
+          },
+          {
+            "speaker": "Фармацевт",
+            "text": "Здравствуйте! Примите это лекарство, оно облегчит боль. 150 сомов."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Хорошо, можете дать мне его."
+          },
+          {
+            "speaker": "Фармацевт",
+            "text": "Скорейшего выздоровления вам!"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Спасибо!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 22,
+      "title": {
+        "kyrgyz": "Кинотеатрда",
+        "english": "At the cinema",
+        "russian": "В кинотеатре"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Ак барс киносу канчада башталат?"
+          },
+          {
+            "speaker": "Кассир",
+            "text": "Саламатсызбы!  Саат он экиде  жарымда ."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Билет барбы?"
+          },
+          {
+            "speaker": "Кассир",
+            "text": "Ооба, бул орундар бош"
+          },
+          {
+            "speaker": "Иван",
+            "text": "15-катардан 2 билет бериңиз."
+          },
+          {
+            "speaker": "Кассир",
+            "text": "Беш жүз сом."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Алыңыз, рахмат."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! What time does the movie Ak Bars start?"
+          },
+          {
+            "speaker": "Cashier",
+            "text": "Hello! At  half past twelve."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Do you have any tickets?"
+          },
+          {
+            "speaker": "Cashier",
+            "text": "Yes, these seats are available."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Give me 2 tickets from the 15th row."
+          },
+          {
+            "speaker": "Сashier",
+            "text": "Five hundred soms."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Here you go, thank you."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Во сколько начинается фильм Ак Барс?"
+          },
+          {
+            "speaker": "Кассир",
+            "text": "Здравствуйте! В полпервого."
+          },
+          {
+            "speaker": "Иван",
+            "text": "У вас есть билеты?"
+          },
+          {
+            "speaker": "Кассир",
+            "text": "Да, эти места свободны."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Дайте мне 2 билета с 15-го ряда."
+          },
+          {
+            "speaker": "Кассир",
+            "text": "Пятьсот сомов."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Вот, спасибо."
+          },
+          {
+            "speaker": "Диалог 23",
+            "text": "Пересечение границы"
+          },
+          {
+            "speaker": "Пограничник",
+            "text": "Здравствуйте! Покажите мне ваш паспорт и билет."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Вот"
+          },
+          {
+            "speaker": "Пограничник",
+            "text": "Все в порядке, можете проходить."
+          }
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "title": {
+        "kyrgyz": "Чек арадан өтүү",
+        "english": "Crossing the border",
+        "russian": "В парикмахерской"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Чек арачы",
+            "text": "Саламатсызбы! Паспортту жана билетиңизди көрсөтүңүз."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Мына."
+          },
+          {
+            "speaker": "Чек арачы",
+            "text": "Эң жакшы, өтө берсеңиз болот."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Border guard",
+            "text": "Hello! Show me your passport and ticket."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Here you are."
+          },
+          {
+            "speaker": "Border guard",
+            "text": "It's fine, you can go through."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Я хочу подстричься."
+          },
+          {
+            "speaker": "Парикмахер",
+            "text": "Здравствуйте! Как бы вы хотели подстричься?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Не слишком коротко и прямо, пожалуйста."
+          },
+          {
+            "speaker": "Парикмахер",
+            "text": "Хорошо."
+          }
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "title": {
+        "kyrgyz": "Чач тарачта",
+        "english": "At the hairdresser",
+        "russian": "В библиотеке"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Чачымды кыскартып бериңизчи."
+          },
+          {
+            "speaker": "Чач тарач",
+            "text": "Саламатсызбы! Кандай  кыскартайын?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Өтө кыска эмес жана тегиз кылып бересизби."
+          },
+          {
+            "speaker": "Чач тарач",
+            "text": "Макул."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! I want to cut my hair."
+          },
+          {
+            "speaker": "Hairdresser",
+            "text": "Hello! How would you like it cut?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Not too short and straight, please."
+          },
+          {
+            "speaker": "Hairdresser",
+            "text": "Okay, let's get started."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! У вас есть книга «История Кыргызстана»?"
+          },
+          {
+            "speaker": "Библиотекарь",
+            "text": "Здравствуйте! Да, в верхнем ящике."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Спасибо!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "title": {
+        "kyrgyz": "Китепканада",
+        "english": "At the library",
+        "russian": "В автобусе"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! \"Кыргызстан тарыхы\" китеби барбы?"
+          },
+          {
+            "speaker": "Китепканачы",
+            "text": "Саламатсызбы! Ооба, өйдөңкү кутучада."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Рахмат!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Do you have the book \"History of Kyrgyzstan\"?"
+          },
+          {
+            "speaker": "Librarian",
+            "text": "Hello! Yes, in the top drawer."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Thank you!"
+          },
+          {
+            "speaker": "Librarian",
+            "text": "I'm happy to help you."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Привет! В каком направлении едет этот автобус?"
+          },
+          {
+            "speaker": "Пассажир",
+            "text": "Здравствуйте! Этот автобус едет по центральной улице."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Спасибо!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "title": {
+        "kyrgyz": "Автобуста",
+        "english": "On the bus",
+        "russian": "Встреча с другом"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Бул автобус кандай багытта каттайт?"
+          },
+          {
+            "speaker": "Жүргүнчү",
+            "text": "Саламатсызбы! Бул автобус борбордук көчө менен өйдө барат."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Рахмат!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Which direction is this bus going?"
+          },
+          {
+            "speaker": "Passenger",
+            "text": "Hello! This bus is going up the main street."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Thank you!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Привет! Как дела?"
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Привет, Иван! Хорошо, я очень рад нашей встрече."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Я тоже. Куда мы идем?"
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Было бы хорошо, если мы сходим в кафе."
+          }
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "title": {
+        "kyrgyz": "Досу менен жолугушуу",
+        "english": "Meeting a friend",
+        "russian": "Приглашение друга в гости"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Салам! Иштериң кандай?"
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Салам , Иван! Жакшы, сени менен жолукканыма абдан кубанычтамын."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Мен дагы. Кайда баралы?"
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Кафеге барсак жакшы болот."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! How are you?"
+          },
+          {
+            "speaker": "Alexey",
+            "text": "Hello, Ivan! Good, I'm very glad to meet you."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Me too. Where are we going?"
+          },
+          {
+            "speaker": "Alexey",
+            "text": "We'd better go to a cafe."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Как дела! Ты свободен завтра? Я хотел пригласить тебя  к себе домой."
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Отлично! Во сколько мне прийти?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "В шесть было бы хорошо."
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Хорошо, я приду!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "title": {
+        "kyrgyz": "Досун конокко чакыруу",
+        "english": "Inviting a friend to visit",
+        "russian": "Поиск квартиры"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Кандайсың!Эртең бошсуңбу, сени  үйүмө конокко чакырайын  дегем."
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Эң жакшы , саат канчага барам?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Саат алтыга келсең жакшы болот."
+          },
+          {
+            "speaker": "Алексей",
+            "text": "Макул, барам!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "How are you! Are you free tomorrow? I wanted to invite you to my house."
+          },
+          {
+            "speaker": "Alexey",
+            "text": "Great! What time should I go?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "At six would be good."
+          },
+          {
+            "speaker": "Alexey",
+            "text": "Okay, I'll come!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Могу ли я снять квартиру?"
+          },
+          {
+            "speaker": "Элера",
+            "text": "Здравствуйте! Да, здесь есть квартиры. Сколько комнат вам нужно?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "2 комнаты."
+          },
+          {
+            "speaker": "Элера",
+            "text": "Есть двухкомнатная квартира за 20 000 сомов. Снимете?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Давайте я подумаю."
+          },
+          {
+            "speaker": "Элера",
+            "text": "Хорошо."
+          }
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "title": {
+        "kyrgyz": "Жаңы батир издөө",
+        "english": "Looking for an apartment",
+        "russian": "Покупка книги"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Батир ижарага алсам болобу?"
+          },
+          {
+            "speaker": "Элера",
+            "text": "Саламатсызбы! Ооба, бул жакта батирлер бар. Канча бөлмөлүү керек?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "2 бөлмөлүү."
+          },
+          {
+            "speaker": "Элера",
+            "text": "20 000 сомго эки бөлмөлүү квартира бар. Аласызбы?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Мен ойлонуп көрөйүнчү."
+          },
+          {
+            "speaker": "Элера",
+            "text": "Макул"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Can I rent an apartment?"
+          },
+          {
+            "speaker": "Elera",
+            "text": "Hello! Yes, there are apartments here. How many rooms do you need?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "2 rooms."
+          },
+          {
+            "speaker": "Elera",
+            "text": "There is a two-room apartment for 20,000 soms. Can you take it?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Let me think about it."
+          },
+          {
+            "speaker": "Elera",
+            "text": "Okay"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Привет! У вас есть книга «Жамилия»?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Здравствуйте! Да, книга здесь."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Сколько это стоит?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "500 сом."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Я куплю, спасибо."
+          },
+          {
+            "speaker": "Диалог 31",
+            "text": "Покупка воды"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Привет! Я хотел купить воды?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Да, вода здесь."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Можно мне бутылку воды?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Конечно, цена 40 сомов."
+          }
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "title": {
+        "kyrgyz": "Китеп сатып алуу",
+        "english": "Buying a book",
+        "russian": "Поступление в университет"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! \"Жамилия\" китебин сатасызбы?"
+          },
+          {
+            "speaker": "Сатуучу",
+            "text": "Саламатсызбы! Ооба, китеп бул жакта."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Баасы канча?"
+          },
+          {
+            "speaker": "Сатуучу",
+            "text": "500 сом."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Алам, рахмат."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Do you have the book \"Jamila\"?"
+          },
+          {
+            "speaker": "Seller",
+            "text": "Hello! Yes, the book is here."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "How much does it cost?"
+          },
+          {
+            "speaker": "Seller",
+            "text": "500 soms."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "I will buy it, thank you."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Привет! Куда мне обратиться, чтобы подать заявление в университет и какие документы мне нужны?"
+          },
+          {
+            "speaker": "Сотрудник университета",
+            "text": "Здравствуйте! Нужен ваш паспорт и аттестат."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Спасибо большое."
+          }
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "title": {
+        "kyrgyz": "Суу сатып алуу",
+        "english": "Buying water",
+        "russian": "Покупка маски в аптеке"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Суу сатып алайын дедим эле?"
+          },
+          {
+            "speaker": "Сатуучу",
+            "text": "Ооба, суу бул жакта."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Бир бөтөлкө суу бересизби."
+          },
+          {
+            "speaker": "Сатуучу",
+            "text": "Албетте, баасы 40 сом."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! I wanted to buy some water?"
+          },
+          {
+            "speaker": "Seller",
+            "text": "Yes, the water is here."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Can I have a bottle of water?"
+          },
+          {
+            "speaker": "Seller",
+            "text": "Sure, the price is 40 soms."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! У вас есть маска?"
+          },
+          {
+            "speaker": "Провизор",
+            "text": "Здравствуйте! Да."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Можно мне одну?"
+          },
+          {
+            "speaker": "Провизор",
+            "text": "20 сом."
+          }
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "title": {
+        "kyrgyz": "Окуу жайга тапшыруу",
+        "english": "Applying to a university",
+        "russian": "Спрашиваем, где находится парк"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Окуу жайга тапшыруу үчүн кайда барып, кандай документтер керек?"
+          },
+          {
+            "speaker": "Окуу жайынын кызматкери",
+            "text": "Саламатсызбы! Паспортуңуз жана аттестатыңыз керек."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Чоң рахмат."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Where do I go to apply to a university and what documents do I need?"
+          },
+          {
+            "speaker": "University employee",
+            "text": "Hello! I need your passport and a certificate."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Thank you very much."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Привет! Можете ли вы сказать мне, где находится парк?"
+          },
+          {
+            "speaker": "Гражданин",
+            "text": "Здравствуйте! Если пройти 2 квартала вперед, он будет справа."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Спасибо!"
+          }
+        ]
+      }
+    },
+    {
+      "id": 33,
+      "title": {
+        "kyrgyz": "Дарыканадан беткап сатып алуу",
+        "english": "Buying a mask at the pharmacy",
+        "russian": "Обмен денег в банкеИван: Здравствуйте!  Могу ли я обменять здесь деньги?"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Беткап барбы?"
+          },
+          {
+            "speaker": "Фармацевт",
+            "text": "Саламатсызбы! Ооба."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Бирди бересизби."
+          },
+          {
+            "speaker": "Фармацевт",
+            "text": "20 сом."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Do you have a mask?"
+          },
+          {
+            "speaker": "Pharmacist",
+            "text": "Hello! Yes."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Can I get one?"
+          },
+          {
+            "speaker": "Pharmacist",
+            "text": "20 soms."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Сотрудник банка",
+            "text": "Здравствуйте! Да, какую валюту вы хотели бы обменять?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "100 долларов в сомах."
+          },
+          {
+            "speaker": "Сотрудник банка",
+            "text": "1 доллар 85 сомов."
+          }
+        ]
+      }
+    },
+    {
+      "id": 34,
+      "title": {
+        "kyrgyz": "Парктын кайда экенин суроо",
+        "english": "Asking where the park is",
+        "russian": "Разговор с фотографом"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Парк кайда экенин айта аласызбы?"
+          },
+          {
+            "speaker": "Жаран",
+            "text": "Саламатсызбы! 2 квартал барсаңыз, оң тарапта."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Рахмат!"
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Can you tell me where the park is?"
+          },
+          {
+            "speaker": "Citizen",
+            "text": "Hello! Go 2 blocks ahead, it's on the right."
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Thank you!"
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Мы хотели провести фотосессию."
+          },
+          {
+            "speaker": "Фотограф",
+            "text": "Здравствуйте! Во сколько вы можете приехать?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Завтра, в 3 часа."
+          },
+          {
+            "speaker": "Фотограф",
+            "text": "Хорошо,можете приходить."
+          }
+        ]
+      }
+    },
+    {
+      "id": 35,
+      "title": {
+        "kyrgyz": "Банктан акча алмаштырууИван: Саламатсызбы! Бул жактан акча алмаштыра аламбы?",
+        "english": "Exchanging money at a bank",
+        "russian": "Опоздание на работу"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Банк кызматкери",
+            "text": "Саламатсызбы! Ооба, кандай валюта алмаштыргыңыз келет?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "100 долларды сомго алмаштырып бересизби."
+          },
+          {
+            "speaker": "Банк кызматкери",
+            "text": "1 доллар 85 сом."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! Can I exchange money here?"
+          },
+          {
+            "speaker": "Bank employee",
+            "text": "Hello! Yes, what currency would you like to exchange?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "100 dollars to soms."
+          },
+          {
+            "speaker": "Bank employee",
+            "text": "1 dollar is 85 soms."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Прошу прощения за опоздание."
+          },
+          {
+            "speaker": "Шеф",
+            "text": "Здравствуйте! Вам следует написать записку с объяснением причины опоздания."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Да, извините, обещаю, что этого больше не повторится."
+          },
+          {
+            "speaker": "Шеф",
+            "text": "Хорошо."
+          }
+        ]
+      }
+    },
+    {
+      "id": 36,
+      "title": {
+        "kyrgyz": "Фотограф менен сүйлөшүү",
+        "english": "Talking to a photographer",
+        "russian": "В торговом центре"
+      },
+      "lines": {
+        "kyrgyz": [
+          {
+            "speaker": "Иван",
+            "text": "Саламатсызбы! Фотосессия жасаткыбыз келип жатты эле."
+          },
+          {
+            "speaker": "Фотограф",
+            "text": "Саламатсызбы! Кайсы убакта келе аласыздар?"
+          },
+          {
+            "speaker": "Иван",
+            "text": "Эртең, саат 3тө."
+          },
+          {
+            "speaker": "Фотограф",
+            "text": "Макул, келе бериңиздер."
+          }
+        ],
+        "english": [
+          {
+            "speaker": "Ivan",
+            "text": "Hello! We wanted to do a photo shoot."
+          },
+          {
+            "speaker": "Photographer",
+            "text": "Hello! What time can you come?"
+          },
+          {
+            "speaker": "Ivan",
+            "text": "Tomorrow, at 3 o'clock."
+          },
+          {
+            "speaker": "Photographer",
+            "text": "Okay, I'll be ready."
+          }
+        ],
+        "russian": [
+          {
+            "speaker": "Иван",
+            "text": "Здравствуйте! Вы не знаете, на каком этаже продается одежда?"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Здравствуйте! Вся одежда на 2 этаже."
+          },
+          {
+            "speaker": "Иван",
+            "text": "Спасибо!"
+          },
+          {
+            "speaker": "Продавец",
+            "text": "Пожалуйста!"
+          }
+        ]
+      }
+    }
+  ]
+}
